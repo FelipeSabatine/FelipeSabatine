@@ -1,7 +1,7 @@
 <h1 align = "center">🙋🏻‍♂️ Hey there! Welcome to my GitHub profile!</h1>
 
 <div align = "center">
-    <a href="https://www.linkedin.com/in/gustavo-de-cristi-34279615a/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="5px"><a href="mailto:gustavodecristi@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a><img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="5px"><a href="https://www.instagram.com/gustavodecristi/" target="_blank"><img src="https://img.shields.io/badge/-instagram-7f38c1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/felipe-sabatine-64611b26b/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="5px"><a href="mailto:felipe.sabatine05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a><img src="https://github.com/Dangocan/duka/blob/master/.github/Assets/Images/padding.png?raw=true" width="5px"><a href="https://www.instagram.com/felipe.sabatine/" target="_blank"><img src="https://img.shields.io/badge/-instagram-7f38c1?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
@@ -33,6 +33,6 @@
 ---
 ## My current projects:
 
-### 🔭 Working as a systems analyst at Unimed Marília
-### 🎓 In the final year of my Bachelor's degree in Information Systems at UNIVEM
+### 🔭 Working as a Suport TI at Unimed Marília
+### 🎓 In the final year of my Bachelor's degree in Bachelor of Science in Computer Science (BSc in Computer Science) at UNIVEM
 ### 🌱 Engaged in freelance projects as a web developer
